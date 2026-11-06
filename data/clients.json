@@ -1,0 +1,17 @@
+{
+  "_nota": "Muro de marcas. Sección 7 de docs/CREA_MAESTRO.md. Solo se muestran las marcas con autorizado: true y un logo entregado en img/marcas/. Si ninguna está autorizada, la sección completa no aparece. No agregar prospectos.",
+  "marcas": [
+    {"nombre": "POP Gastropub", "logo": null, "autorizado": false, "nota": "Negocio propio del director. Mantener expedientes separados."},
+    {"nombre": "La Casa del Carpintero", "logo": null, "autorizado": false},
+    {"nombre": "Rey Birria Perote", "logo": null, "autorizado": false, "nota": "[POR CONFIRMAR] Rey Birria o La Pura Birria"},
+    {"nombre": "Roci Terramar", "logo": null, "autorizado": false},
+    {"nombre": "Minimal Muebles", "logo": null, "autorizado": false, "nota": "[POR CONFIRMAR] Minimals o Minimal"},
+    {"nombre": "Farmacia La Esperanza", "logo": null, "autorizado": false},
+    {"nombre": "Kskrita Deportiva", "logo": null, "autorizado": false},
+    {"nombre": "Eternal Store", "logo": null, "autorizado": false, "nota": "El logo llegó en blanco."},
+    {"nombre": "Rendillantas", "logo": null, "autorizado": false},
+    {"nombre": "Tholos Galería", "logo": null, "autorizado": false, "nota": "[POR CONFIRMAR] Tholoz o Tholos"},
+    {"nombre": "Café Colonial", "logo": null, "autorizado": false},
+    {"nombre": "Liceo Excellens / Instituto Educativo San Carlos", "logo": null, "autorizado": false}
+  ]
+}

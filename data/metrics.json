@@ -1,0 +1,37 @@
+{
+  "_nota": "Única fuente de cifras del sitio. Sección 4 de docs/CREA_MAESTRO.md. Cada cifra se muestra siempre con plataforma, periodo y fuente. fecha_de_consulta en null se muestra como [POR CONFIRMAR]. Para agregar una cifra, agrégala aquí con todos sus campos; no se escriben cifras en index.html.",
+  "actualizado": "2026-11-06",
+  "metricas": [
+    {"id": "fb_visualizaciones", "grupo": "facebook", "valor": "819,702", "etiqueta": "visualizaciones",
+     "plataforma": "Facebook", "periodo": "1 ene a 7 oct 2026", "fuente": "Meta, Resumen de interacciones", "fecha_de_consulta": null},
+    {"id": "fb_interacciones", "grupo": "facebook", "valor": "58,285", "etiqueta": "interacciones",
+     "plataforma": "Facebook", "periodo": "1 ene a 7 oct 2026", "fuente": "Meta, Resumen de interacciones", "fecha_de_consulta": null},
+    {"id": "fb_visitas_perfil", "grupo": "facebook", "valor": "73,583", "etiqueta": "visitas al perfil",
+     "plataforma": "Facebook", "periodo": "1 ene a 7 oct 2026", "fuente": "Meta, Resumen de interacciones", "fecha_de_consulta": null},
+    {"id": "fb_no_seguidores", "grupo": "facebook", "valor": "72.5 %", "etiqueta": "de las visualizaciones viene de personas que no siguen la página",
+     "plataforma": "Facebook", "periodo": "1 ene a 7 oct 2026", "fuente": "Meta, Resumen de interacciones", "fecha_de_consulta": null},
+    {"id": "fb_reels", "grupo": "facebook", "valor": "88.1 %", "etiqueta": "de las visualizaciones son reels",
+     "plataforma": "Facebook", "periodo": "1 ene a 7 oct 2026", "fuente": "Meta, Resumen de interacciones", "fecha_de_consulta": null},
+    {"id": "fb_perote", "grupo": "facebook", "valor": "78.1 %", "etiqueta": "de la audiencia está en Perote",
+     "plataforma": "Facebook", "periodo": "1 ene a 7 oct 2026", "fuente": "Meta, Resumen de interacciones", "fecha_de_consulta": null},
+    {"id": "fb_edad", "grupo": "facebook", "valor": "75.6 %", "etiqueta": "de la audiencia tiene entre 25 y 54 años",
+     "plataforma": "Facebook", "periodo": "1 ene a 7 oct 2026", "fuente": "Meta, Resumen de interacciones", "fecha_de_consulta": null},
+
+    {"id": "tt_visualizaciones_sep", "grupo": "tercer_tiempo", "valor": "75,000 aprox.", "etiqueta": "visualizaciones de Tercer Tiempo: 8 episodios, la final Campeón de Campeones y 8 promos",
+     "plataforma": "Facebook", "periodo": "4 a 28 sep 2026", "fuente": "Meta", "fecha_de_consulta": null},
+    {"id": "tt_perote", "grupo": "tercer_tiempo", "valor": "78.4 %", "etiqueta": "de la audiencia de Tercer Tiempo está en Perote",
+     "plataforma": "Facebook", "periodo": "4 sep a 1 oct 2026", "fuente": "Meta", "fecha_de_consulta": null},
+    {"id": "tt_episodios", "grupo": "tercer_tiempo", "valor": "70", "etiqueta": "episodios transmitidos en 2026",
+     "plataforma": "Facebook", "periodo": "2026, al 7 oct", "fuente": "Dossier de Patrocinio 2026 de Tercer Tiempo", "fecha_de_consulta": null,
+     "nota": "[POR CONFIRMAR] Una captura muestra la emisión 74x1. Confirmar antes de actualizar."},
+    {"id": "tt_duracion", "grupo": "tercer_tiempo", "valor": "73 min", "etiqueta": "de duración promedio por episodio",
+     "plataforma": "Facebook", "periodo": "2026, al 7 oct", "fuente": "Dossier de Patrocinio 2026 de Tercer Tiempo", "fecha_de_consulta": null},
+
+    {"id": "ys_padre", "grupo": "ya_sabias", "valor": "65,479", "etiqueta": "reproducciones",
+     "plataforma": "Facebook", "periodo": "1 ene a 7 oct 2026, por reel", "fuente": "Meta, CREA", "fecha_de_consulta": null},
+    {"id": "ys_rebolledo", "grupo": "ya_sabias", "valor": "48,229", "etiqueta": "reproducciones",
+     "plataforma": "Facebook", "periodo": "1 ene a 7 oct 2026, por reel", "fuente": "Meta, CREA", "fecha_de_consulta": null},
+    {"id": "ys_desterrados", "grupo": "ya_sabias", "valor": "33,238", "etiqueta": "reproducciones",
+     "plataforma": "Facebook", "periodo": "1 ene a 7 oct 2026, por reel", "fuente": "Meta, CREA", "fecha_de_consulta": null}
+  ]
+}
